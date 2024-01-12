@@ -776,6 +776,31 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 8924682559891268397, guid: 995ece6cdcb2f524f9c0bd7dc3025b07,
         type: 3}
+    - target: {fileID: 9087143436424816424, guid: 6f29469abe34e4e4496504fbf47479d9,
+        type: 3}
+      propertyPath: AttackEyeColor.g
+      value: 21.612564
+      objectReference: {fileID: 0}
+    - target: {fileID: 9087143436424816424, guid: 6f29469abe34e4e4496504fbf47479d9,
+        type: 3}
+      propertyPath: AttackEyeColor.r
+      value: 0.45261914
+      objectReference: {fileID: 0}
+    - target: {fileID: 9087143436424816424, guid: 6f29469abe34e4e4496504fbf47479d9,
+        type: 3}
+      propertyPath: DefaultEyeColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9087143436424816424, guid: 6f29469abe34e4e4496504fbf47479d9,
+        type: 3}
+      propertyPath: DefaultEyeColor.g
+      value: 23.849058
+      objectReference: {fileID: 0}
+    - target: {fileID: 9087143436424816424, guid: 6f29469abe34e4e4496504fbf47479d9,
+        type: 3}
+      propertyPath: DefaultEyeColor.r
+      value: 0.43971995
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6f29469abe34e4e4496504fbf47479d9, type: 3}
 --- !u!4 &927465903 stripped
@@ -819,7 +844,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: dfd3574752c332246b1307e548a740f2, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.49
   m_Pitch: 1
   Loop: 1
   Mute: 0
